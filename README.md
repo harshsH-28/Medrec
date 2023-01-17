@@ -1,4 +1,3 @@
-<!-- <img src = 'download.jpg'> -->
 # MedRec
 <img width=200 src="./markdown_assests/logo.png">
 
